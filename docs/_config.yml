@@ -1,4 +1,4 @@
 name: Lab-93
-remote_theme: no-style-please
+remote_theme: jekyll-theme-no-style-please
 plugins:
   - jekyll-remote-theme
